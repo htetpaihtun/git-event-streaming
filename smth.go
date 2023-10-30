@@ -12,5 +12,5 @@ func Hello(name string) string {
 func main() {
 	message := Hello("August")
 	print(message)
-	print("Not anymore haha")
+	print("xD")
 }
